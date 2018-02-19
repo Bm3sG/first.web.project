@@ -1,0 +1,52 @@
+# first.web.project
+
+body{
+	/*url for image= https://unsplash.com/photos/7ZaFhK3LNVE*/
+	background: url("kurs.jpg");
+	background-size: cover;
+	background-position: center; 
+	}
+
+html{
+	height: 100%;
+}
+
+#content{
+	text-align: center;
+	padding-top: 8%;
+	padding-left:10%; 
+	text
+	}
+
+.navbar-brand{
+	font-size: 20px;
+}
+
+hr{
+	border-top: solid 1px rgb(0,0,0,0.3) ;
+	border-bottom: solid 1px rgb(0,0,0,0.3);
+
+
+}
+.form-inline{
+	padding-left: 20px;
+}
+
+.jumbotron{
+	height: 30%;
+}
+
+.container{
+	padding-left: 1px;
+}
+.nav-item{
+	padding-left: 5px;
+}
+h1{
+	font-size: 100px;
+	font-family: 'Pacifico';
+
+}h3{
+	padding-top: 15px;
+	font-weight: 700;
+}
